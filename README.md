@@ -10,5 +10,6 @@
 
 Задание 2.
 ![изображение](https://user-images.githubusercontent.com/118304300/227509762-8a7234db-f7a0-4069-b792-b8047517184f.png)
+![изображение](https://user-images.githubusercontent.com/118304300/227509901-0ce7aaa5-cd9b-44b1-9b01-d8758f058746.png)
 
 Задание 3.
