@@ -14,3 +14,5 @@
 
 Задание 3.
 ![изображение](https://user-images.githubusercontent.com/118304300/227514261-446acfa8-c52e-47c3-879c-ee4359034f39.png)
+![изображение](https://user-images.githubusercontent.com/118304300/227516217-b05007d2-b2c2-4688-a5af-1c65e9a26bbf.png)
+![изображение](https://user-images.githubusercontent.com/118304300/227516352-77742cd3-3855-4fff-9b64-890892b77d11.png)
