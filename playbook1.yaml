@@ -1,0 +1,14 @@
+---
+- name: "7.2 Ansible"
+  hosts: all
+  gather_facts: true
+  become: true
+  tasks:
+
+  - name: "Unpacking kafka"
+    unarchive:
+      src: "https://downloads.apache.org/kafka/3.4.0/kafka-3.4.0-src.tgz"
+      dest: "{{ ansible_user_dir }}"
+      creates: "{{ ansible_user_dir }}/kafka"
+      remote_src: yes
+... 
