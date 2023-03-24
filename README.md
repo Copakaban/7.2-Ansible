@@ -13,3 +13,4 @@
 ![изображение](https://user-images.githubusercontent.com/118304300/227509901-0ce7aaa5-cd9b-44b1-9b01-d8758f058746.png)
 
 Задание 3.
+![изображение](https://user-images.githubusercontent.com/118304300/227514261-446acfa8-c52e-47c3-879c-ee4359034f39.png)
